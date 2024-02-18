@@ -12,7 +12,7 @@
 
 Für ein Beispiel, schau dir dieses Tutorial an: [Creating Forks and Pull Requests](https://www.youtube.com/watch?v=nT8KGYVurIU&ab_channel=TheCodex)
 
-:warning: Bitte achte drauf, dass sich keine Passwörter oder andere Einlogdaten im Code befinden!
+:warning: Stell sicher, dass sich keine Passwörter oder andere Einlogdaten im Code befinden!
 
 # Projekte aus WI 2022 SE A
 
