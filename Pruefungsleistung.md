@@ -38,4 +38,4 @@ c) Müssten Sie für Ihre Anwendung AGB entwickeln? Begründen Sie anhand des BG
 
 # Wartungsphase (6 Punkte)
 
-Beantworten Sie die 3 Supportanfragen, die nach der Abgabe #2 eintreffen werden. Achten Sie dabei auf einen "korrekten" Umgang mit den Supportanfragen.
+Beantworten Sie die 3 Supportanfragen, die nach der Abgabe #2 eintreffen werden. Achten Sie dabei auf einen "korrekten" Umgang mit den Supportanfragen. Die Supportanfragen werden per Email eintreffen. Bitte schauen Sie auch in ihren Spam-Ordner.
