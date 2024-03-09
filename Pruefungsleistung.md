@@ -30,9 +30,9 @@ b) Implementieren Sie aussagekräftige Unit-Tests, der (wenn möglich) die zu te
 
 # Abnahmephase (7 Punkte)
 
-a) Suchen Sie sich einen Hosting-Dienst aus. Beschreiben Sie, warum sie sich für den Hosting-Dienst entschieden haben. (2 Punkte)
+a) Suchen Sie sich einen Hosting-Dienst aus. Beschreiben Sie, warum sie sich für den Hosting-Dienst entschieden haben. Alternativ, falls kein externes Hosting möglich ist (z.B. SAP BTP): Beschreiben Sie, wie die Plattform, auf der automatisch gehostet wird, funktioniert. (2 Punkte)
 
-b) Richten Sie eine CI- und eine CD-Pipeline für Ihr Projekt ein und beschreiben Sie, was diese genau tun und wie sie funktionieren. (3 Punkte)
+b) Richten Sie eine CI- und eine CD-Pipeline für Ihr Projekt ein und beschreiben Sie, was diese genau tun und wie sie funktionieren. Alternativ, falls kein externes Hosting möglich ist (z.B. SAP BTP): Beschreiben Sie, wie die Plattform, die Sie benutzen, für CI bzw. CD sorgt und wie man dort Tests automatisieren kann. (3 Punkte)
 
 c) Müssten Sie für Ihre Anwendung AGB entwickeln? Begründen Sie anhand des BGB. (2 Punkte)
 
